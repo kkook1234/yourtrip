@@ -2,9 +2,7 @@ import React, { useState, useRef, useEffect } from "react";
 
 import "./Menubox.css";
 import Card from "./Card";
-// import { useNavigate } from "react-router-dom";
 import { validate } from "../util/validators";
-import { findAllByTestId } from "@testing-library/react";
 
 const Iscontent = (
   content,
@@ -22,7 +20,6 @@ const Iscontent = (
 
   useEffect(() => {
     setTextvalue(content.existing || "");
-   
   }, [content.existing]);
 
   const texthandler = (e) => {
@@ -165,10 +162,9 @@ const Iscontent = (
                 {content.existing ? (
                   <img
                     className="menubox-contents-image-img"
-                    src={`http://localhost:5000/${content.existing.replace(
-                      /\\/g,
-                      "/"
-                    )}`}
+                    src={`${
+                      process.env.REACT_APP_ASSET_URL
+                    }${content.existing.replace(/\\/g, "/")}`}
                   ></img>
                 ) : (
                   <div className="menubox-contents-image">
