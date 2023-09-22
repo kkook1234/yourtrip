@@ -1,0 +1,19 @@
+.guidebox {
+  margin-top: 22px;
+  margin-bottom: 22px;
+  color: #18b4f6;
+  border-top: 2px solid #18b4f6;
+  border-bottom: 2px solid #18b4f6;
+  font-size: 30px;
+  width: 650px;
+  height: 58px;
+}
+@media (max-width: 768px) {
+  .guidebox {
+    height: 28px;
+    margin-top: 21px;
+    margin-bottom: 21px;
+    font-size: 15px;
+    width: 300px;
+  }
+}

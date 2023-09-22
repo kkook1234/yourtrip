@@ -1,0 +1,80 @@
+.memos {
+  color: #18b4f6;
+}
+.left {
+  width: 60px;
+  height: 60px;
+  left: 0;
+  top: 50%;
+  position: fixed;
+}
+.right {
+  width: 60px;
+  height: 60px;
+  right: 0;
+  top: 50%;
+  position: fixed;
+}
+.dayplus {
+  width: 60px;
+  height: 60px;
+  right: 0;
+  top: 50%;
+  position: fixed;
+  cursor: pointer;
+}
+.memo-flex {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+}
+.memo-plus-btn {
+  height: 650px;
+  width: 650px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  cursor: pointer;
+}
+.memo-plus-btn:hover {
+  transform: scale(1.01);
+}
+.day-delete-btn {
+  width: 150px;
+  height: 30px;
+  background: #18b4f6;
+  color: white;
+  font-size: 20px;
+  position: fixed;
+  right: 30px;
+  top: 95px;
+  cursor: pointer;
+}
+.day-delete-btn:hover {
+  background: #87ceeb;
+}
+
+@media (max-width: 768px) {
+  .left {
+    width: 30px;
+    height: 30px;
+  }
+  .right {
+    width: 30px;
+    height: 30px;
+  }
+  .dayplus {
+    width: 30px;
+    height: 30px;
+  }
+  .memo-plus-btn {
+    width: 300px;
+    height: 300px;
+  }
+  .day-delete-btn {
+    width: 75px;
+    height: 15px;
+    font-size: 10px;
+  }
+}

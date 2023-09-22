@@ -1,0 +1,26 @@
+.mytrips-span {
+  margin-top: 45px;
+  margin-bottom: 45px;
+  display: block;
+  width: 500px;
+  height: 1px;
+  background: #18b4f6;
+}
+.menubox-menu {
+  margin-top: 45px;
+  font-size: 40px;
+  color: #18b4f6;
+  font-weight: bolder;
+}
+@media (max-width: 768px) {
+  .mytrips-span {
+    margin-top: 25px;
+    margin-bottom: 25px;
+    width: 250px;
+    height: 1px;
+  }
+  .menubox-menu {
+    margin-top: 25px;
+    font-size: 20px;
+  }
+}

@@ -1,0 +1,38 @@
+.modal {
+  width: 800px;
+  height: 600px;
+  text-align: right;
+  position: fixed;
+  left: 50%;
+  top: 50%;
+  transform: translate(-50%, -50%);
+  background: white;
+  z-index: 100;
+}
+.modal-enter {
+  transform: translate(-50%, -100%);
+  opacity: 0;
+}
+
+.modal-enter-active {
+  transform: translate(-50%, -50%);
+  opacity: 1;
+  transition: all 200ms;
+}
+
+.modal-exit {
+  transform: translate(-50%, -50%);
+  opacity: 1;
+}
+
+.modal-exit-active {
+  transform: translate(-50%, -100%);
+  opacity: 0;
+  transition: all 200ms;
+}
+@media (max-width: 768px) {
+  .modal {
+    width: 400px;
+    height: 300px;
+  }
+}

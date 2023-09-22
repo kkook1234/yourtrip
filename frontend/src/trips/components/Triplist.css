@@ -1,0 +1,13 @@
+.triplist {
+  list-style: none;
+  padding-left: 0;
+}
+.trip-none {
+  color: #18b4f6;
+  font-size: 30px;
+}
+@media (max-width: 768px) {
+  .trip-none {
+    font-size: 15px;
+  }
+}
