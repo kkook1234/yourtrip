@@ -1,5 +1,6 @@
 const HttpError = require("../models/http-error");
 const jwt = require("jsonwebtoken");
+require("dotenv").config();
 
 module.exports = (req, res, next) => {
   if (req.method === "OPTIONS") {

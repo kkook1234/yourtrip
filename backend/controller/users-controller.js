@@ -1,6 +1,7 @@
 const HttpError = require("../models/http-error");
 
 const { validationResult } = require("express-validator");
+require("dotenv").config();
 
 const User = require("../models/user");
 const bcrypt = require("bcryptjs");
