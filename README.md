@@ -14,4 +14,4 @@
 ## 프로젝트 소개
 
 - 메인 화면
-![image](https://user-images.githubusercontent.com/50724377/108066081-37e99580-70a2-11eb-97e2-cce8de3bb504.png)
+![yourtrip-main](https://github.com/kkook1234/yourtrip/assets/134517779/83aa440f-c4c3-4462-b864-49d4c388af8a)
