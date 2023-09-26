@@ -55,6 +55,12 @@
 
   - 여행 기록과 DAY 별 메모의 추가/수정 기능 구현
 
+- 모바일 화면
+  
+  ![yourtrip-mobile](https://github.com/kkook1234/yourtrip/assets/134517779/71dfcc9e-c79e-444d-b3e1-b7874c91a3ee)
+  
+  - 모바일 접속을 위해 크기 변경 기능 구현
+
 ## 피그마
 
 -[피그마 구성 링크](https://www.figma.com/file/1DktgIbaBeVD1LbyD1m1fn/%EC%97%AC%ED%96%89-%EA%B8%B0%EB%A1%9D-%EC%82%AC%EC%9D%B4%ED%8A%B8?type=design&node-id=0-1&mode=design&t=gmYaPYxkiBERR0Cc-0)
