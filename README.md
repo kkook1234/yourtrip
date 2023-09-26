@@ -21,14 +21,14 @@
   - 비로그인 모드: 로그인/회원가입 버튼, 로그인 모드: 여행 기록 추가하기/내 기록 보기/로그아웃 버튼/
   - 최근 추가된 여행기록을 확인하거나 검색을 통해 특정 여행지에 관한 여행기록들을 모아 보거나 로그인 후 내가 작성한 기록들만 보아볼 수도 있습니다.
 
-  ![yourtrip-main2](https://github.com/kkook1234/yourtrip/assets/134517779/63aa9b4e-2480-49ac-86c9-717d16daf8c9)
+  ![yourtrip-main2](https://github.com/kkook1234/yourtrip/assets/134517779/d92c5c18-6bd9-4585-a6b4-aca25348f8c6)
 
   - 로그인 시 자신의 여행기록의 수정/삭제 버튼이 활성화됩니다.
 
 
 - 여행 기록 보기
 
-  ![yourtrip-memo](https://github.com/kkook1234/yourtrip/assets/134517779/82543367-283d-44ed-ba70-22147058f254)
+  ![yourtrip-memo](https://github.com/kkook1234/yourtrip/assets/134517779/3bc16c44-d6dc-48b9-83f1-28649a82683a)
 
 
   - 여행 기록을 클릭하면 DAY 별로 메모들을 볼 수 있습니다.
