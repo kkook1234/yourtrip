@@ -54,3 +54,7 @@
   ![yourtrip-newtrip](https://github.com/kkook1234/yourtrip/assets/134517779/0a7cf4cb-3d8e-47d2-8c5c-73e9e9727792)
 
   - 여행 기록과 DAY 별 메모의 추가/수정 기능 구현
+
+## 피그마
+
+-[피그마 구성 링크](http://yourtrip.co.kr/](https://www.figma.com/file/1DktgIbaBeVD1LbyD1m1fn/%EC%97%AC%ED%96%89-%EA%B8%B0%EB%A1%9D-%EC%82%AC%EC%9D%B4%ED%8A%B8?type=design&node-id=0-1&mode=design&t=gmYaPYxkiBERR0Cc-0)https://www.figma.com/file/1DktgIbaBeVD1LbyD1m1fn/%EC%97%AC%ED%96%89-%EA%B8%B0%EB%A1%9D-%EC%82%AC%EC%9D%B4%ED%8A%B8?type=design&node-id=0-1&mode=design&t=gmYaPYxkiBERR0Cc-0)
