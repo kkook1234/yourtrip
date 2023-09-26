@@ -57,4 +57,4 @@
 
 ## 피그마
 
--[피그마 구성 링크](http://yourtrip.co.kr/](https://www.figma.com/file/1DktgIbaBeVD1LbyD1m1fn/%EC%97%AC%ED%96%89-%EA%B8%B0%EB%A1%9D-%EC%82%AC%EC%9D%B4%ED%8A%B8?type=design&node-id=0-1&mode=design&t=gmYaPYxkiBERR0Cc-0)https://www.figma.com/file/1DktgIbaBeVD1LbyD1m1fn/%EC%97%AC%ED%96%89-%EA%B8%B0%EB%A1%9D-%EC%82%AC%EC%9D%B4%ED%8A%B8?type=design&node-id=0-1&mode=design&t=gmYaPYxkiBERR0Cc-0)
+-[피그마 구성 링크](https://www.figma.com/file/1DktgIbaBeVD1LbyD1m1fn/%EC%97%AC%ED%96%89-%EA%B8%B0%EB%A1%9D-%EC%82%AC%EC%9D%B4%ED%8A%B8?type=design&node-id=0-1&mode=design&t=gmYaPYxkiBERR0Cc-0)
